@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    var idBlog = "6106095741362504702";
+    var idBlog = "9164769581591894667";
     $(function() {
         "use strict";
         $.ajax({

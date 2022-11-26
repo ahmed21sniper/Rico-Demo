@@ -1,4 +1,3 @@
-document.querySelector(".qa-page-links").style.display = "none";
 document.addEventListener("contextmenu", (e) => {
   e.preventDefault();
 }, false);document.addEventListener("keydown", (e) => {
